@@ -17,7 +17,7 @@ const EmployeeList= () => {
     <>
      <div className="d-flex justify-content-end p-4">
         <button type="button" className="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onClick={() => setadddat(true)} >
-        Add Employee Data+
+        Add Employee
         </button>
       </div>
    
